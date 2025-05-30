@@ -83,3 +83,7 @@ The trained model predicts whether the loan will be approved or not, and the res
 ##
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/9f8e017b-55c7-44e3-9000-cf707ea21531)
+![Image](https://github.com/user-attachments/assets/2af40b8e-af91-4782-9e20-6f8150dd607f)
+![Image](https://github.com/user-attachments/assets/137e811c-413e-4bcd-82b2-6efb71c49d88)
+![Image](https://github.com/user-attachments/assets/7c1f798f-cf1c-4cbb-8328-685b83db0bec)
